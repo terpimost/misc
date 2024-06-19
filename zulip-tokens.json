@@ -493,10 +493,1069 @@
       }
     }
   },
-  "$themes": [],
+  "Zulip UI/Light theme": {
+    "btn-bg-att_high-int_neutral-normal": {
+      "value": "#777a88",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_neutral-hover": {
+      "value": "#707380",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_neutral-active": {
+      "value": "#696b78",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_high": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_high-int_warning": {
+      "value": "#000000e0",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_brand-normal": {
+      "value": "#805bfe",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_brand-hover": {
+      "value": "#7349ec",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_brand-active": {
+      "value": "#612fd4",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_info-normal": {
+      "value": "#3c6bff",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_info-hover": {
+      "value": "#2e59eb",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_info-active": {
+      "value": "#1e41d3",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_success-normal": {
+      "value": "#07833c",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_success-hover": {
+      "value": "#087736",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_success-active": {
+      "value": "#09672e",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_warning-normal": {
+      "value": "#febe3d",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_warning-hover": {
+      "value": "#f8b325",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_warning-active": {
+      "value": "#eba002",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_danger-normal": {
+      "value": "#e1392e",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_danger-hover": {
+      "value": "#d22720",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_danger-active": {
+      "value": "#c0070a",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_neutral": {
+      "value": "#393c49",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_neutral-normal": {
+      "value": "#7679881f",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_neutral-hover": {
+      "value": "#7679882b",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_neutral-active": {
+      "value": "#76798838",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_brand-normal": {
+      "value": "#805bfe1f",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_brand-hover": {
+      "value": "#805bfe2b",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_brand-active": {
+      "value": "#805bfe38",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_brand": {
+      "value": "#4704aa",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_info": {
+      "value": "#0e1cb3",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_info-normal": {
+      "value": "#3c6bff1f",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_info-hover": {
+      "value": "#3c6bff2b",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_info-active": {
+      "value": "#3c6bff38",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_success": {
+      "value": "#054f22",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_success-normal": {
+      "value": "#07833c21",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_success-hover": {
+      "value": "#07833c2e",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_success-active": {
+      "value": "#07833c3b",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_warning": {
+      "value": "#764607",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_warning-normal": {
+      "value": "#eba0022e",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_warning-hover": {
+      "value": "#eba0023b",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_warning-active": {
+      "value": "#eba00247",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_danger": {
+      "value": "#ac0508",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_danger-normal": {
+      "value": "#e1392e21",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_danger-hover": {
+      "value": "#e1392e2e",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_danger-active": {
+      "value": "#e1392e3b",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_neutral": {
+      "value": "#525661",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_neutral-hover": {
+      "value": "#5256610f",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_neutral-active": {
+      "value": "#5256611c",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_brand": {
+      "value": "#4d4db2",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_brand-hover": {
+      "value": "#0000990d",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_brand-active": {
+      "value": "#0000991a",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_info": {
+      "value": "#1d6ea5",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_info-hover": {
+      "value": "#1e53760d",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_info-active": {
+      "value": "#1e537617",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_success": {
+      "value": "#0f8544",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_success-hover": {
+      "value": "#3ec1791a",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_success-active": {
+      "value": "#3ec1792b",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_warning": {
+      "value": "#a5780d",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_warning-hover": {
+      "value": "#e8a2001a",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_warning-active": {
+      "value": "#e8a20024",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_danger": {
+      "value": "#c32a22",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_danger-hover": {
+      "value": "#ed918c21",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_danger-active": {
+      "value": "#ed918c29",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "link": {
+      "value": "#066bd0",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "link-hover": {
+      "value": "#0077ff",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "link-active": {
+      "value": "#004799",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "app-bg": {
+      "value": "#f0f0f0",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-bg-int_info": {
+      "value": "#ddecf6",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-border-int_info": {
+      "value": "#26516e66",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-bg-int_neutral": {
+      "value": "#ececee",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-border-int_neutral": {
+      "value": "#4b4b4e66",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-bg-int_warning": {
+      "value": "#faf5dc",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-bg-int_danger": {
+      "value": "#f2e4e4",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-bg-int_success": {
+      "value": "#e1f3e9",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-bg-int_brand": {
+      "value": "#ece9f6",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-border-int_warning": {
+      "value": "#644e2766",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-border-int_danger": {
+      "value": "#84292466",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-border-int_success": {
+      "value": "#1b643c66",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-border-int_brand": {
+      "value": "#5633cc66",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-shadow-att_med": {
+      "value": "#00000033",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "banner-progress": {
+      "value": "#ffffff66",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "modal-bg": {
+      "value": "#ededed",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "modal-border": {
+      "value": "#8c8c8c",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "modal-bar-bg": {
+      "value": "#f5f5f5",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "modal-bar-border": {
+      "value": "#c2c2c2",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "text": {
+      "value": "#262626",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "text-header": {
+      "value": "#262626",
+      "type": "color",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    },
+    "btn-label-max": {
+      "value": "240px",
+      "type": "dimension",
+      "parent": "Zulip UI/Light theme",
+      "description": ""
+    }
+  },
+  "Zulip UI/Dark theme": {
+    "btn-bg-att_high-int_neutral-normal": {
+      "value": "#535663",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_neutral-hover": {
+      "value": "#626573",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_neutral-active": {
+      "value": "#535663",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_high": {
+      "value": "#ffffffd9",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_high-int_warning": {
+      "value": "#000000e6",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_brand-normal": {
+      "value": "#5417c3",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_brand-hover": {
+      "value": "#612fd4",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_brand-active": {
+      "value": "#5417c3",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_info-normal": {
+      "value": "#1e41d3",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_info-hover": {
+      "value": "#2e59eb",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_info-active": {
+      "value": "#1e41d3",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_success-normal": {
+      "value": "#09672e",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_success-hover": {
+      "value": "#087736",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_success-active": {
+      "value": "#09672e",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_warning-normal": {
+      "value": "#db920d",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_warning-hover": {
+      "value": "#eba002",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_warning-active": {
+      "value": "#db920d",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_danger-normal": {
+      "value": "#d22720",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_danger-hover": {
+      "value": "#e1392e",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_high-int_danger-active": {
+      "value": "#d22720",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_neutral": {
+      "value": "#babdc4",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_neutral-normal": {
+      "value": "#f7f7f814",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_neutral-hover": {
+      "value": "#f7f7f81c",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_neutral-active": {
+      "value": "#f7f7f814",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_brand-normal": {
+      "value": "#8888dd1f",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_brand-hover": {
+      "value": "#8888dd2b",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_brand-active": {
+      "value": "#8888dd1f",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_brand": {
+      "value": "#9b9be9",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_info": {
+      "value": "#82b8de",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_info-normal": {
+      "value": "#8acfff17",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_info-hover": {
+      "value": "#8acfff1f",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_info-active": {
+      "value": "#8acfff14",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_success": {
+      "value": "#5bc289",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_success-normal": {
+      "value": "#5bc2891a",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_success-hover": {
+      "value": "#5bc28921",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_success-active": {
+      "value": "#5bc2891a",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_warning": {
+      "value": "#cdaf6a",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_warning-normal": {
+      "value": "#c8ad6f1a",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_warning-hover": {
+      "value": "#c8ad6f24",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_warning-active": {
+      "value": "#c8ad6f1a",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_medium-int_danger": {
+      "value": "#ed918c",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_danger-normal": {
+      "value": "#ed918c1a",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_danger-hover": {
+      "value": "#ed918c21",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_medium-int_danger-active": {
+      "value": "#ed918c1a",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_neutral": {
+      "value": "#acb0b9",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_neutral-hover": {
+      "value": "#c8cad017",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_neutral-active": {
+      "value": "#c8cad01f",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_brand": {
+      "value": "#9090df",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_brand-hover": {
+      "value": "#8888dd1a",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_brand-active": {
+      "value": "#8888dd21",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_info": {
+      "value": "#72aeda",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_info-hover": {
+      "value": "#72afda17",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_info-active": {
+      "value": "#72afda1f",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_success": {
+      "value": "#45ba79",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_success-hover": {
+      "value": "#45ba7917",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_success-active": {
+      "value": "#45ba791f",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_warning": {
+      "value": "#c8ad6f",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_warning-hover": {
+      "value": "#c8b96f17",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_warning-active": {
+      "value": "#c8b96f1f",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-att_low-int_danger": {
+      "value": "#ed918c",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_danger-hover": {
+      "value": "#ed918c17",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-bg-att_low-int_danger-active": {
+      "value": "#ed918c1f",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "link": {
+      "value": "#00aaff",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "link-hover": {
+      "value": "#33bbff",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "link-active": {
+      "value": "#00aaff",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "app-bg": {
+      "value": "#1d1d1d",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-bg-int_info": {
+      "value": "#00253d",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-border-int_info": {
+      "value": "#82b8de66",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-bg-int_neutral": {
+      "value": "#28282e",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-border-int_neutral": {
+      "value": "#a2a2ae66",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-bg-int_warning": {
+      "value": "#332b00",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-bg-int_danger": {
+      "value": "#461616",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-bg-int_success": {
+      "value": "#022210",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-bg-int_brand": {
+      "value": "#1e153d",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-border-int_warning": {
+      "value": "#ceba8266",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-border-int_danger": {
+      "value": "#ed918c66",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-border-int_success": {
+      "value": "#4abf8266",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-border-int_brand": {
+      "value": "#d8cff766",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-shadow-att_med": {
+      "value": "#ffffff36",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "banner-progress": {
+      "value": "#ffffff0d",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "modal-bg": {
+      "value": "#242424",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "modal-border": {
+      "value": "#ffffff26",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "modal-bar-bg": {
+      "value": "#333333",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "modal-bar-border": {
+      "value": "#ffffff1f",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "text": {
+      "value": "#ffffffbf",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "text-header": {
+      "value": "#ffffffd9",
+      "type": "color",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    },
+    "btn-label-max": {
+      "value": "240px",
+      "type": "dimension",
+      "parent": "Zulip UI/Dark theme",
+      "description": ""
+    }
+  },
+  "$themes": [
+    {
+      "id": "fde0a154b746fb0320a8d3b1f2ccc85fae1af897",
+      "name": "zulip web",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "zulip": "enabled"
+      }
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
-      "zulip"
+      "zulip",
+      "Zulip UI/Light theme",
+      "Zulip UI/Dark theme"
     ]
   }
 }
