@@ -2,11 +2,15 @@
   "zulip": {
     "grey": {
       "0": {
-        "value": "#f2f3f7",
+        "value": "#f7f8fc",
         "type": "color"
       },
       "50": {
-        "value": "#edeef2",
+        "value": "#f2f3f7",
+        "type": "color"
+      },
+      "100": {
+        "value": "#e9ebf2",
         "type": "color"
       },
       "150": {
@@ -84,11 +88,15 @@
     },
     "purple": {
       "0": {
-        "value": "#efeefd",
+        "value": "#f3f2fd",
         "type": "color"
       },
       "50": {
-        "value": "#e5e5ff",
+        "value": "#ededfc",
+        "type": "color"
+      },
+      "100": {
+        "value": "#e5e5fc",
         "type": "color"
       },
       "150": {
@@ -170,7 +178,11 @@
         "type": "color"
       },
       "50": {
-        "value": "#e3ebfd",
+        "value": "#e5edfe",
+        "type": "color"
+      },
+      "100": {
+        "value": "#dae5fd",
         "type": "color"
       },
       "150": {
@@ -255,6 +267,10 @@
         "value": "#d0fed8",
         "type": "color"
       },
+      "100": {
+        "value": "#b4ffc3",
+        "type": "color"
+      },
       "150": {
         "value": "#a3f9b5",
         "type": "color"
@@ -330,11 +346,15 @@
     },
     "orange": {
       "0": {
-        "value": "#fff0d7",
+        "value": "#fef4e3",
         "type": "color"
       },
       "50": {
-        "value": "#ffe4b8",
+        "value": "#ffeccd",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffda9b",
         "type": "color"
       },
       "150": {
@@ -412,11 +432,15 @@
     },
     "red": {
       "0": {
-        "value": "#feedeb",
+        "value": "#fcf3f2",
         "type": "color"
       },
       "50": {
-        "value": "#fed7d1",
+        "value": "#ffe4e0",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffd4cd",
         "type": "color"
       },
       "150": {
