@@ -172,6 +172,92 @@
         "type": "color"
       }
     },
+    "violet": {
+      "0": {
+        "value": "#f1f3fe",
+        "type": "color"
+      },
+      "50": {
+        "value": "#eceefc",
+        "type": "color"
+      },
+      "100": {
+        "value": "#e3e6fd",
+        "type": "color"
+      },
+      "150": {
+        "value": "#d8dcfc",
+        "type": "color"
+      },
+      "200": {
+        "value": "#c3c9fe",
+        "type": "color"
+      },
+      "250": {
+        "value": "#b1b7fe",
+        "type": "color"
+      },
+      "300": {
+        "value": "#a3a9fc",
+        "type": "color"
+      },
+      "350": {
+        "value": "#9398fd",
+        "type": "color"
+      },
+      "400": {
+        "value": "#8688fd",
+        "type": "color"
+      },
+      "450": {
+        "value": "#7977fe",
+        "type": "color"
+      },
+      "500": {
+        "value": "#6d65fe",
+        "type": "color"
+      },
+      "550": {
+        "value": "#6051f1",
+        "type": "color"
+      },
+      "600": {
+        "value": "#5038d9",
+        "type": "color"
+      },
+      "650": {
+        "value": "#4522c8",
+        "type": "color"
+      },
+      "700": {
+        "value": "#3913ae",
+        "type": "color"
+      },
+      "750": {
+        "value": "#2b0e8a",
+        "type": "color"
+      },
+      "800": {
+        "value": "#230773",
+        "type": "color"
+      },
+      "850": {
+        "value": "#180557",
+        "type": "color"
+      },
+      "900": {
+        "value": "#0e033c",
+        "type": "color"
+      },
+      "950": {
+        "value": "#08012e",
+        "type": "color"
+      },
+      "1000": {
+        "value": "#050121",
+        "type": "color"
+      }
+    },
     "blue": {
       "0": {
         "value": "#eff3fe",
@@ -1618,6 +1704,27 @@
         "purple.900": "b4d0915949e5c88cee5669c24c66eea617c40e8b",
         "purple.950": "17b895a1938ea3c5f24690dd890d91ef5fc9ad0f",
         "purple.1000": "a414fd0e560cbeec55887b48afeac9a9292d24f2",
+        "violet.0": "6f1212164ce18bbdb9dc1963c9c184bc5cd08450",
+        "violet.50": "f10b5d587f4c1d8c0f1276b5a3865ccd4ae3ce75",
+        "violet.100": "92e20b87ad4492ece6763bd74e613fcce5c4551e",
+        "violet.150": "6b3ea9c3256d719b6292b4ff9edddc2fa15bc3cf",
+        "violet.200": "038f2f2f39b858716f2adb4b15aac4d13f4665db",
+        "violet.250": "633359c224ab94ca29e48d6c5a14a81a4b2e74fb",
+        "violet.300": "cd385ef3a1b1e69665d1266026c8fad621089e3c",
+        "violet.350": "de948713fa47ce25992932710ffd7ce4c75e3ed0",
+        "violet.400": "845f8cf1ce4cc56ba3033218fbadf17894d1f2a8",
+        "violet.450": "ee3a346e5ffe8b8865eb2208d9da0581242bdaba",
+        "violet.500": "36856f099d1218ff001320e1f5e4596f7ab73b1b",
+        "violet.550": "c23c7a1570dbf350e3f98e392390c2a9b66cc470",
+        "violet.600": "0aa1676d47dc8658c429081f73e21e931beaa813",
+        "violet.650": "c893dc8c67620740e6265df1826ae205ba7744a3",
+        "violet.700": "068e47065d272334f1b72873bc085184c8bc1f6e",
+        "violet.750": "2de6b0127da8b152b083fcdb41a3e4ef947bc39c",
+        "violet.800": "6aec07dd4b4764dcf4fc82f8df98aa386297741c",
+        "violet.850": "8c55e85851700b710df3ee54e88a60d23b1157d8",
+        "violet.900": "bc26080dd12e8410f34e26880ad8f940be220f7f",
+        "violet.950": "efa79a4d81f7eca9e3bb4f5248b427689a3bc6cc",
+        "violet.1000": "cec1ef959dbf231a2c13190dd1a97f65387102fb",
         "blue.0": "a62d7a8cc36f9d0ced5ac8305de0c0488c8360e3",
         "blue.50": "01d62eb796042c75b3ce59353197da95c6c8a90e",
         "blue.100": "4f53dfdaeadf0a8e5203c7b9a7c6b86516edab9a",
