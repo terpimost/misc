@@ -929,7 +929,8 @@
         "red.850": "541c091c886922f78ff0f56e51e341a32ca067f4",
         "red.900": "d60293cab9599de9c028d8fdc5dee07bf9c1734b",
         "red.950": "e75e619f92091c34c5ca9bd3442a42971cf6c263",
-        "red.1000": "f34124ff391f50573d88502c9f016eea50db751e"
+        "red.1000": "f34124ff391f50573d88502c9f016eea50db751e",
+        "foreground": "74aa2e8ba3467c85e438d6ee6a5b8519024c8e3e"
       }
     }
   ],
