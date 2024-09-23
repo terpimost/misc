@@ -4,7 +4,9 @@
     "name": "Antithesis",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Antithesis": "enabled"
+      "Antithesis": "enabled",
+      "UIlit/light": "disabled",
+      "UIlit/dark": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2789:113",
     "$figmaModeId": "2789:0",
@@ -190,6 +192,36 @@
       "red.950": "e75e619f92091c34c5ca9bd3442a42971cf6c263",
       "red.1000": "f34124ff391f50573d88502c9f016eea50db751e",
       "foreground": "74aa2e8ba3467c85e438d6ee6a5b8519024c8e3e"
+    }
+  },
+  {
+    "id": "b00a0c1427d15d879b01081c78ae6b1a099d4e0c",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Antithesis": "source",
+      "UIlit/light": "enabled"
+    },
+    "group": "UIkit",
+    "$figmaCollectionId": "VariableCollectionId:2993:17",
+    "$figmaModeId": "2993:4",
+    "$figmaVariableReferences": {
+      "button_regular_bg_neutral": "cfc8537c915b88adf8fabd69d6f18f5bf7cb8832"
+    }
+  },
+  {
+    "id": "ef19d60638195bb016c61121288b6479020f29ef",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Antithesis": "source",
+      "UIlit/dark": "enabled"
+    },
+    "group": "UIkit",
+    "$figmaCollectionId": "VariableCollectionId:2993:17",
+    "$figmaModeId": "2993:5",
+    "$figmaVariableReferences": {
+      "button_regular_bg_neutral": "cfc8537c915b88adf8fabd69d6f18f5bf7cb8832"
     }
   }
 ]

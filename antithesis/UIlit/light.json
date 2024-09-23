@@ -1,0 +1,16 @@
+{
+  "button_regular_bg_neutral": {
+    "$extensions": {
+      "studio.tokens": {
+        "modify": {
+          "type": "mix",
+          "value": "0.2",
+          "space": "lch",
+          "color": "white"
+        }
+      }
+    },
+    "$type": "color",
+    "$value": "{zinc.50}"
+  }
+}

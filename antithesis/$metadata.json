@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
-    "Antithesis"
+    "Antithesis",
+    "UIlit/light",
+    "UIlit/dark"
   ]
 }
